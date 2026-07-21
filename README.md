@@ -9,6 +9,13 @@
 ![](https://streak-stats.demolab.com/?user=John26hub&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=John26hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 💻 My Tech Stack
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
+  <img alt="pacman contribution graph" src="https://githubusercontent.com">
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
