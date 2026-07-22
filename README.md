@@ -9,6 +9,9 @@
 ![](https://streak-stats.demolab.com/?user=John26hub&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=John26hub&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![WakaTime Stats](https://vercel.app)](https://github.com)
+
+
  
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
