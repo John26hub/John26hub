@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srijan.26) [![![![LinkedIn](https://img.shields.io/badge/LinkedIn-0A77B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-bhattacharjee-7b373a402/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srijan.26) [![![![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007785.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-bhattacharjee-7b373a402/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srijanbhattacharjee200626@gmail.com) 
 
 # 💻 Tech Stack:
