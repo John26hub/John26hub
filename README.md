@@ -1,6 +1,6 @@
 ﻿<!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Srijan%20Bhattacharjee&fontSize=70&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Software%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Srijan%20Bhattacharjee&fontSize=70&fontAlignY=35&desc=B.Tech%20CSE%20-%20AI%20and%20ML%20-%20Software%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%"/>
 </div>
 
 <!-- Typing Animation -->
@@ -80,5 +80,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
+
 
 
