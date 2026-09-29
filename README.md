@@ -40,20 +40,15 @@
 
 ## 🚀 Featured Project: Sharod Utsav 2026
 <div align="center">
-  ```mermaid
-graph TD
-    A[📱 Android APK Application] -->|Native WebView| C((🌐 Core Application Engine))
-    B[💻 Standard Web Browser] -->|Direct Access| C
-    
-    C --> D[🗺️ Interactive Pandal Map & Router]
-    C --> E[🔐 Dual Google Authentication Flow]
-    C --> F[💾 Offline Visited Progression Tracking]
-    C --> G[🎵 Smart Background Audio Engine]
-```
+  <img src="websitebgpc.webp" alt="Sharod Utsav Project Screenshot" width="800" style="border-radius: 10px;" />
   <br/>
-  <h3>🔗 <a href="https://kolkata.sharodutsav2026.workers.dev/"><b>Experience the Live Application Here</b></a> 🔗</h3>
-  <br/>
-  <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja.</i></p>
+  <img src="blueprint.svg" alt="Animated Blueprint" width="800" />
+  <br/><br/>
+  <a href="https://kolkata.sharodutsav2026.workers.dev/">
+    <img src="https://img.shields.io/badge/🌍_Experience_Live_Application_Here-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Link" />
+  </a>
+  <br/><br/>
+  <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja. Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
 </div>
 
 ## 🐍 Contribution Graph (Eating my Commits!)
@@ -89,6 +84,7 @@ graph TD
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
+
 
 
 
