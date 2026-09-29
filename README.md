@@ -40,7 +40,7 @@
 
 ## 🚀 Featured Project: Sharod Utsav 2026
 <div align="center">
-  <img src="websitebgpc.webp" alt="Sharod Utsav Project Screenshot" width="800" style="border-radius: 10px;" />
+  <img src="durga-cover.jpg" alt="Sharod Utsav Project Screenshot" width="800" style="border-radius: 10px;" />
   <br/>
   <img src="blueprint.svg" alt="Animated Blueprint" width="800" />
   <br/><br/>
@@ -84,6 +84,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
+
 
 
 
