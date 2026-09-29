@@ -40,9 +40,20 @@
 
 ## 🚀 Featured Project: Sharod Utsav 2026
 <div align="center">
-  <img src="websitebgpc.webp" alt="Sharod Utsav 2026 Project Showcase" width="800" />
+  ```mermaid
+graph TD
+    A[📱 Android APK Application] -->|Native WebView| C((🌐 Core Application Engine))
+    B[💻 Standard Web Browser] -->|Direct Access| C
+    
+    C --> D[🗺️ Interactive Pandal Map & Router]
+    C --> E[🔐 Dual Google Authentication Flow]
+    C --> F[💾 Offline Visited Progression Tracking]
+    C --> G[🎵 Smart Background Audio Engine]
+```
   <br/>
-  <p><i>An immersive, hybrid application (Web & Android WebView) to navigate Kolkata's Durga Puja.<br/>Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
+  <h3>🔗 <a href="https://kolkata.sharodutsav2026.workers.dev/"><b>Experience the Live Application Here</b></a> 🔗</h3>
+  <br/>
+  <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja.</i></p>
 </div>
 
 ## 🐍 Contribution Graph (Eating my Commits!)
@@ -78,6 +89,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
+
 
 
 
