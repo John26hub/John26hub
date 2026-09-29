@@ -41,7 +41,7 @@
 ## 🚀 Featured Project: Sharod Utsav 2026
 <div align="center">
   <a href="https://github.com/John26hub/Kolkata-durgapuja2026">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=John26hub&repo=Kolkata-durgapuja2026&theme=tokyonight&hide_border=true&show_icons=true" alt="Sharod Utsav 2026" />
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=John26hub&repo=Kolkata-durgapuja2026&cache_bypass=1&theme=tokyonight&hide_border=true&show_icons=true" alt="Sharod Utsav 2026" />
   </a>
   <br/>
   <p><i>An immersive, hybrid application (Web & Android WebView) to navigate Kolkata's Durga Puja.<br/>Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
@@ -80,6 +80,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%"/>
 </div>
+
 
 
 
