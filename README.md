@@ -53,7 +53,7 @@
       <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja. Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
       <div align="center">
         <a href="https://kolkata.sharodutsav2026.workers.dev/">
-          <img src="https://img.shields.io/badge/🌍_Experience_Live-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+          <img src="https://img.shields.io/badge/🌍_Click_Website-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
         </a>
       </div>
     </td>
@@ -66,13 +66,9 @@
       </div>
       <br/>
       <p><i>An ultra-premium, high-performance landing page for a fictional high-end headphone brand. Features buttery-smooth scroll animations, hardware-accelerated 3D image sequences, and a luxury glassmorphism aesthetic.</i></p>
-      <p><strong>Tech Stack:</strong> Next.js 14, React, Tailwind CSS, GSAP, Lenis Smooth Scroll</p>
       <div align="center">
         <a href="https://sonance-phi.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/John26hub/headphone-website">
-          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+          <img src="https://img.shields.io/badge/🌍_Click_Website-FF4154?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
         </a>
       </div>
     </td>
