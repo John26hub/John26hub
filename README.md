@@ -1,4 +1,4 @@
-﻿<!-- Banner -->
+<!-- Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Srijan%20Bhattacharjee&fontSize=70&fontAlignY=35&desc=B.Tech%20CSE%20-%20AI%20and%20ML%20-%20Software%20Engineer&descAlignY=55&descSize=20" alt="Header Banner" width="100%"/>
 </div>
@@ -33,23 +33,53 @@
 ## 🛠️ Tech Arsenal
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,gcp,git,github,vscode,androidstudio&theme=dark&perline=11" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,js,nextjs,react,tailwind,html,css,gcp,git,github,vscode,vercel,androidstudio&theme=dark&perline=8" alt="Skills" />
   </a>
 </div>
 <br/>
 
-## 🚀 Featured Project: Sharod Utsav 2026
-<div align="center">
-  <img src="durga-cover.jpg" alt="Sharod Utsav Project Screenshot" width="800" style="border-radius: 10px;" />
-  <br/>
-  <img src="blueprint.svg" alt="Animated Blueprint" width="800" />
-  <br/><br/>
-  <a href="https://kolkata.sharodutsav2026.workers.dev/">
-    <img src="https://img.shields.io/badge/🌍_Experience_Live_Application_Here-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Link" />
-  </a>
-  <br/><br/>
-  <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja. Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
-</div>
+## 🚀 Featured Projects
+
+<table bordercolor="#30363d">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Sharod Utsav 2026</h3>
+      <div align="center">
+        <a href="https://kolkata.sharodutsav2026.workers.dev/">
+          <img src="durga-cover.jpg" width="100%" alt="Sharod Utsav" style="border-radius: 10px;" />
+        </a>
+        <br/><br/>
+        <img src="blueprint.svg" width="100%" alt="Blueprint" />
+      </div>
+      <br/>
+      <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja. Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
+      <div align="center">
+        <a href="https://kolkata.sharodutsav2026.workers.dev/">
+          <img src="https://img.shields.io/badge/🌍_Experience_Live-007BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo" />
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sonance Zero - Premium E-Commerce</h3>
+      <div align="center">
+        <a href="https://sonance-phi.vercel.app">
+          <img src="https://raw.githubusercontent.com/John26hub/headphone-website/main/public/images/headphone-hero.jpg" width="100%" alt="Sonance Zero" style="border-radius: 10px;" />
+        </a>
+      </div>
+      <br/>
+      <p><i>An ultra-premium, high-performance landing page for a fictional high-end headphone brand. Features buttery-smooth scroll animations, hardware-accelerated 3D image sequences, and a luxury glassmorphism aesthetic.</i></p>
+      <p><strong>Tech Stack:</strong> Next.js 14, React, Tailwind CSS, GSAP, Lenis Smooth Scroll</p>
+      <div align="center">
+        <a href="https://sonance-phi.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-FF4154?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+        <a href="https://github.com/John26hub/headphone-website">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ## 🐍 Contribution Graph (Eating my Commits!)
 <div align="center">
