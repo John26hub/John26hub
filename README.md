@@ -24,7 +24,7 @@
         </ul>
       </td>
       <td width="40%">
-        <img src="https://github-readme-stats.shion.dev/api?username=John26hub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.shion.dev/api?username=John26hub&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
@@ -86,8 +86,8 @@
 
 ## 📈 Activity & Languages
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John26hub&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=John26hub&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=John26hub&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=John26hub&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 <br/>
 
