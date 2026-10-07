@@ -63,7 +63,7 @@
       <h3 align="center">Sonance Zero - Premium E-Commerce</h3>
       <div align="center">
         <a href="https://sonance-phi.vercel.app">
-          <img src="https://raw.githubusercontent.com/John26hub/headphone-website/main/public/images/headphone-hero.jpg" width="100%" alt="Sonance Zero" style="border-radius: 10px;" />
+          <img src="sonance-cover.png" width="100%" alt="Sonance Zero" style="border-radius: 10px;" />
         </a>
       </div>
       <br/>
