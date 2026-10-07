@@ -48,8 +48,6 @@
         <a href="https://kolkata.sharodutsav2026.workers.dev/">
           <img src="durga-cover.jpg" width="100%" alt="Sharod Utsav" style="border-radius: 10px;" />
         </a>
-        <br/><br/>
-        <img src="blueprint.svg" width="100%" alt="Blueprint" />
       </div>
       <br/>
       <p><i>An immersive, hybrid architecture bridging a native Android experience with a highly interactive web interface to seamlessly navigate Kolkata's Durga Puja. Features offline tracking, auto-playing festive music, and Google authentication.</i></p>
